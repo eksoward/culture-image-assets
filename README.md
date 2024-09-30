@@ -1,4 +1,4 @@
-# image-assets
+# culture-image-assets
 Repository of Memes and other useful images. Intended to be a referenceable share for images relevant to life in computing and technology. 
 
 # Intended Use
